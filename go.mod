@@ -1,3 +1,3 @@
-module github.com/radovskyb/watcher
+module github.com/skymania/watcher
 
-go 1.16
+go 1.17
